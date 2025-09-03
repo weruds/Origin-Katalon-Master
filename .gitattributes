@@ -1,0 +1,8 @@
+* text=auto
+*.sh text eol=lf
+*.groovy text eol=lf
+*.rs text eol=lf
+*.properties text eol=lf
+*.gradle text eol=lf
+*.xml text eol=lf
+*.json text eol=lf
